@@ -1,7 +1,7 @@
 -------------------------------------------------------------------------------
 Test set: bubblePopper.Bubble_Pop.LevelTest
 -------------------------------------------------------------------------------
-Tests run: 6, Failures: 0, Errors: 5, Skipped: 0, Time elapsed: 0 sec <<< FAILURE! - in bubblePopper.Bubble_Pop.LevelTest
+Tests run: 6, Failures: 0, Errors: 5, Skipped: 0, Time elapsed: 0.001 sec <<< FAILURE! - in bubblePopper.Bubble_Pop.LevelTest
 testBubbleHitsBubble(bubblePopper.Bubble_Pop.LevelTest)  Time elapsed: 0 sec  <<< ERROR!
 java.lang.RuntimeException: null
 	at bubblePopper.Bubble_Pop.LevelTest.testBubbleHitsBubble(LevelTest.java:48)
