@@ -1,8 +1,0 @@
--------------------------------------------------------------------------------
-Test set: bubblePopper.Bubble_Pop.ScoreControllerTest
--------------------------------------------------------------------------------
-Tests run: 3, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.001 sec <<< FAILURE! - in bubblePopper.Bubble_Pop.ScoreControllerTest
-testScoreboardCreate(bubblePopper.Bubble_Pop.ScoreControllerTest)  Time elapsed: 0 sec  <<< ERROR!
-java.lang.RuntimeException: null
-	at bubblePopper.Bubble_Pop.ScoreControllerTest.testScoreboardCreate(ScoreControllerTest.java:40)
-
