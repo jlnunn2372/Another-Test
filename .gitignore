@@ -1,2 +1,6 @@
 /target/
 /Hidden/
+*.project
+*.classpath
+/bin/
+*.gitignore
