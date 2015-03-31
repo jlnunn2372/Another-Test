@@ -1,4 +1,4 @@
-package bubblePopper.Bubble_Pop;
+package bubblePopper;
 
 import javafx.animation.AnimationTimer;
 import javafx.animation.Timeline;

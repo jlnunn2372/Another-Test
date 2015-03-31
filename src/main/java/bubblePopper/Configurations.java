@@ -1,5 +1,4 @@
-package bubblePopper.Bubble_Pop;
-
+package bubblePopper;
 public final class Configurations  {
 	
 	//Window Sizes

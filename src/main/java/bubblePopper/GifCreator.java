@@ -1,5 +1,4 @@
-package bubblePopper.Bubble_Pop;
-
+package bubblePopper;
 import java.io.File;
 
 /**

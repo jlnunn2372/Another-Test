@@ -1,5 +1,4 @@
-package bubblePopper.Bubble_Pop;
-
+package bubblePopper;
 import org.junit.Test;
 
 public class GameControllerIT {

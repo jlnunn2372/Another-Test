@@ -1,5 +1,4 @@
-package bubblePopper.Bubble_Pop;
-
+package bubblePopper;
 
 import javafx.animation.ScaleTransition;
 import javafx.application.Application;

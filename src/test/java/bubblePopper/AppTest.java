@@ -1,5 +1,4 @@
-package bubblePopper.Bubble_Pop;
-
+package bubblePopper;
 import junit.framework.Test;
 import junit.framework.TestCase;
 import junit.framework.TestSuite;

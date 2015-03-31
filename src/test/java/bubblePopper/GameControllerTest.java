@@ -1,7 +1,6 @@
-package bubblePopper.Bubble_Pop;
-
-import bubblePopper.Bubble_Pop.GameController;
-import bubblePopper.Bubble_Pop.Level;
+package bubblePopper;
+import bubblePopper.GameController;
+import bubblePopper.Level;
 import javafx.scene.layout.BorderPane;
 
 import org.junit.Before;

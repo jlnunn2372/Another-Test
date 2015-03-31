@@ -1,4 +1,4 @@
-package bubblePopper.Bubble_Pop;
+package bubblePopper;
 
 /**
  * Hello world!
